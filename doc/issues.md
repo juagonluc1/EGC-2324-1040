@@ -6,6 +6,9 @@ Cada tarea está etiquetada según dificultad como:
  * Avanzada (A)
 
 Autenticación
+
+CAMBIO 1
+
 -------------
     * Autenticación por email (F)
     * Autenticación por certificado digital (A)
