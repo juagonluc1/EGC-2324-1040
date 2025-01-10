@@ -38,6 +38,7 @@ jobs:
         cd decide
         python manage.py migrate
 
+
   test2:
     runs-on: ubuntu-latest
 
