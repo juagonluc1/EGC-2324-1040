@@ -8,7 +8,7 @@ Cada tarea está etiquetada según dificultad como:
 Autenticación
 
 CAMBIO 1
-
+CAMBIO 2
 -------------
     * Autenticación por email (F)
     * Autenticación por certificado digital (A)
