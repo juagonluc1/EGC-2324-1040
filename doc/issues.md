@@ -9,6 +9,7 @@ Autenticación
 
 CAMBIO 1
 CAMBIO 2
+CAMBIO 3
 -------------
     * Autenticación por email (F)
     * Autenticación por certificado digital (A)
